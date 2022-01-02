@@ -21,5 +21,4 @@ const forecast = (latitide, longitude, callback) => {
     });
 }
 
-
 module.exports = forecast;
